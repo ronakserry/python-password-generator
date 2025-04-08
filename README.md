@@ -19,3 +19,17 @@ Install dependencies using pip:
 
 ```bash
 pip install PyQt6
+
+🤝 Contributing
+Contributions are welcome! Here's how: 
+1. Fork the repository
+
+2. Create a new branch (git checkout -b feature-name)
+
+3. Commit your changes (git commit -m "Add something cool")
+
+4. Push to your fork (git push origin feature-name)
+
+5. Create a Pull Request 🚀
+
+
